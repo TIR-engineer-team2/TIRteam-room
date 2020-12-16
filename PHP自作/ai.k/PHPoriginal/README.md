@@ -32,4 +32,4 @@ XAMMP/MySQL/PHP
 データベース名：original_php
 
 テーブル
-お使いのphpMyAdminに上のデータベースを作り、入っているtestdb.sqlをインポートしてください。
+お使いのphpMyAdminに上のデータベースを作り、入っているtestDB.sqlをインポートしてください。
