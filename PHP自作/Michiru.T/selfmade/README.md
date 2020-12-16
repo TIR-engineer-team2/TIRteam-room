@@ -1,20 +1,20 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# システム名
 
 HANEDA Handbook
 
-# DEMO
+# 概要
 
 羽田空港のお土産店で働く販売員向けの商品情報システム
 
-# Features
+# システムの売り
 
 各店舗毎に在庫登録が出来るため、在庫の有無を加味した商品案内ができる
 
-# Requirement
+# 環境
 
 MAMP/MySQL/PHP
 
-# Usage
+# 使い方
 
 [商品課]
 
@@ -38,7 +38,7 @@ MAMP/MySQL/PHP
 
 ログイン不要
 
-# Note
+# データベース
 
 データベース:hnd_handbook
 
